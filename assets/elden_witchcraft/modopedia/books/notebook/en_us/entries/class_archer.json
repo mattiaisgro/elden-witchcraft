@@ -1,0 +1,20 @@
+{
+  "title": "Archer Class",
+  "icon": { "id": "archers:royal_longbow", "count": 1 },
+  "assigned_items": [ "minecraft:fishing_rod" ],
+  "pages": [
+    {
+      "components": [
+        {
+            "type": "modopedia:entity",
+            "entity": "minecraft:armor_stand",
+            "tag": "{ Invisible:1b, ArmorItems:[ {id:\"archers:ranger_armor_head\",Count:1b,Slot:103b}, {id:\"archers:ranger_armor_chest\",Count:1b,Slot:102b}, {id:\"archers:ranger_armor_legs\",Count:1b,Slot:101b},{id:\"archers:ranger_armor_feet\",Count:1b,Slot:100b}], HandItems:[ {id:\"archers:royal_longbow\", Count:1b}, {id:\"minecraft:air\", Count:0b}] }"
+        },
+        {
+          "type": "modopedia:text",
+          "text": "The archer prefers ranged combat, using bows and crossbows. When enemies get too close, the archer uses a long spear to keep them at a distance."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Factions",
+  "icon": { "id": "relics_rpgs:greater_perk_shield_reset" },
+  "landing_text": "The Outer Lands are a dangerous place, where opposed factions push their quest for conquer.",
+  "entries": [
+    "faction_villagers",
+    "faction_pillagers",
+    "faction_monsters"
+  ]
+}

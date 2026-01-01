@@ -1,0 +1,14 @@
+{
+  "title": "Classes",
+  "icon": { "id": "rogues:netherite_berserker_armor_head" },
+  "landing_text": "There are certain roles that you may fullfil in this world. You are not born with your class, but it is chosen when you are ready.",
+  "entries": [
+    "class_warrior",
+    "class_archer",
+    "class_wizard",
+    "class_paladin",
+    "class_rogue",
+    "class_priest",
+    "class_witcher"
+  ]
+}

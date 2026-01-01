@@ -1,0 +1,6 @@
+{
+  "title": "Scribbled Note",
+  "icon": { "id": "minecraft:writable_book" },
+  "landing_text": "You wake up, stranded, in the wilderness. With nowhere to call home. You don't know how you landed here, nor how you will manage to survive now. \n\n$(b)Better prepare for what's to come.$(/b)",
+  "entries": []
+}
